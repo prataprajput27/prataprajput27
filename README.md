@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratapsing Rajput</h1>
+<h1 align="center">Hey there, I'm Pratapsing Rajput!</h1>
 <h3 align="center">A passionate individual dedicated to honing skills, gaining valuable work experience, and crafting high-quality, reusable code. Skilled in data structures, algorithms, full-stack development, and fundamental computer science principles.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prataprajput27&label=Reach&color=545454&style=plastic" alt="prataprajput27" /> </p>
