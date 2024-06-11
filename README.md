@@ -12,6 +12,7 @@
     Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. <br>
     Please feel free to visit my <a href="https://github.com/prataprajput27">Portfolio page</a> to know more about me.<br><br>
     <i>Happy Coding!</i> 😊
+    <br><br>
 </div>
 
 <div align="center">
