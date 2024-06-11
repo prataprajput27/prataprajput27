@@ -3,15 +3,15 @@
 </div>
 
 <div align="center" width="50">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWEwY2Uya2dzb2czeWViNjdycG93Ymc0NWN5bWNiN2wxaGtkY3N0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JoVpuP6UyON8LcQw8x/giphy.gif" alt="Welcome!" width="300"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWEwY2Uya2dzb2czeWViNjdycG93Ymc0NWN5bWNiN2wxaGtkY3N0cyZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/JoVpuP6UyON8LcQw8x/giphy.gif" alt="Welcome!" width="300"/>
 </div>
 
 <div align="center">
-    You have finally discovered my Github profile. <br>
-Hi, I am Pratap, a passionate software developer and third-year IT undergraduate student at Vishwakarma Institute of Information Technology, Pune. I am currently working on a variety of projects including a Projectile Game and several web applications using modern frameworks like Vue.js and React. Checkout my repositories to get to know more about my projects.
-Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. <br>
-Please feel free to visit my <a href="https://github.com/prataprajput27">Portfolio page</a> to know more about me.
-<i>Happy Coding!</i> 😊
+    You have finally discovered my Github profile. <br><br>
+    Hi, I am Pratap, a passionate software developer and third-year IT undergraduate student at Vishwakarma Institute of Information Technology, Pune. I am currently working on a variety of projects including a Projectile Game and several web applications using modern frameworks like Vue.js and React. Checkout my repositories to get to know more about my projects.<br><br>
+    Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. <br>
+    Please feel free to visit my <a href="https://github.com/prataprajput27">Portfolio page</a> to know more about me.<br><br>
+    <i>Happy Coding!</i> 😊
 </div>
 
 <div align="center">
@@ -21,7 +21,9 @@ Please feel free to visit my <a href="https://github.com/prataprajput27">Portfol
     <br/>
     <div align="center">
         <code><img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,vuejs,mongodb,mysql,c,cpp,java,javascript,typescript,python,git,postman,aws&perline=7"></code>
-        <br/>
+        <br/><br/>
+        ![](https://komarev.com/ghpvc/?username=prataprajput27)
+        <br/><br/>
         <i>Follow me around the web:</i><br>
         <a href="https://www.linkedin.com/in/prataprajput27/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="https://www.instagram.com/wydpratap/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
