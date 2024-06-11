@@ -16,13 +16,14 @@
 </div>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=prataprajput27&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Pratap's Github Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=prataprajput27&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Pratap's Github Stats">
 <br/>
     <h4 align="center">Tools, Technologies and Languages I use</h4>
     <br/>
     <div align="center">
         <code><img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,vuejs,mongodb,mysql,c,cpp,java,javascript,typescript,python,git,postman,aws&perline=7"></code>
         <br/><br/>
+        ![](https://komarev.com/ghpvc/?username=prataprajput27)
         <br/><br/>
         <i>Follow me around the web:</i><br>
         <a href="https://www.linkedin.com/in/prataprajput27/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
