@@ -9,7 +9,7 @@
 
 <div align="center">
     You have finally discovered my Github profile. <br><br>
-    Hi, I am Pratap, a passionate software developer and third-year IT undergraduate student at Vishwakarma Institute of Information Technology, Pune. I am currently working on a variety of projects including a Projectile Game and several web applications using modern frameworks like Vue.js and React. Checkout my repositories to get to know more about my projects.<br><br>
+    Hi, I am Pratap, a passionate software developer and third-year IT undergraduate student at Vishwakarma Institute of Information Technology, Pune. My projects range from games like the **Projectile Game** and **Plinko Game**—showcasing physics and determinism—to educational tools like **Tree Traversal Algorithms** for teaching data structures and algorithms. I work with modern frameworks like Vue.js and React to build dynamic web applications. Checkout my repositories to get to know more about my projects.<br><br>
     Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. <br>
     Please feel free to visit my <a href="https://github.com/prataprajput27">Portfolio page</a> to know more about me.<br><br>
     <i>Happy Coding!</i> 😊
