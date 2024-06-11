@@ -9,7 +9,9 @@
 
 <div align="center">
     You have finally discovered my Github profile. <br><br>
-    Hi, I am Pratap, a passionate software developer and third-year IT undergraduate student at Vishwakarma Institute of Information Technology, Pune. My projects range from games like <strong>Strike.js</strong> and <strong>Plinko Game</strong>—which involves implementing complex physics elements like friction, gravity, sine, recoil, and collision physics within a canvas, ensuring fairness and consistent gameplay—to educational tools like <strong>Tree Traversal Algorithms</strong> for teaching data structures and algorithms. I work with modern frameworks like Vue.js and React to build dynamic web applications. Checkout my repositories to get to know more about my projects.<br><br>
+    Hi, I am Pratap, a passionate software developer and IT undergrad at Vishwakarma Institute of Information Technology, Pune. My projects range from games like <strong>Strike.js</strong> and <strong>Plinko</strong> — which involves implementing complex physics elements like friction, gravity, sine, recoil, and collision physics within a canvas, ensuring fairness and consistent gameplay — to educational tools like <strong>Tree Traversal Algorithms</strong> for teaching data structures and algorithms.
+
+<br><br>I work with modern frameworks like Vue.js and React to build dynamic web applications. Checkout my repositories to get to know more about my projects.<br><br>
 <br><br>
     Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. <br>
     Please feel free to visit my <a href="https://github.com/prataprajput27">Portfolio page</a> to know more about me.<br><br>
