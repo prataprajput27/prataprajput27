@@ -21,7 +21,8 @@
     <h4 align="center">Tools, Technologies and Languages I use</h4>
     <br/>
     <div align="center">
-        <code><img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,vuejs,mongodb,mysql,c,cpp,java,javascript,typescript,python,git,postman,aws&perline=7"></code>
+<!--         <code><img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,vuejs,mongodb,mysql,c,cpp,java,javascript,typescript,python,git,postman,aws&perline=7"></code> -->
+        <img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,vuejs,mongodb,mysql,c,cpp,java,javascript,typescript,python,git,postman,aws&perline=7">
         <br/><br/>
         <h5><i>Follow me around the web ;)</i></h5>
         <a href="https://www.linkedin.com/in/prataprajput27/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
