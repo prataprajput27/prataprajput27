@@ -23,7 +23,6 @@
     <div align="center">
         <code><img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,vuejs,mongodb,mysql,c,cpp,java,javascript,typescript,python,git,postman,aws&perline=7"></code>
         <br/><br/>
-        ![](https://komarev.com/ghpvc/?username=prataprajput27)
         <br/><br/>
         <i>Follow me around the web:</i><br>
         <a href="https://www.linkedin.com/in/prataprajput27/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
