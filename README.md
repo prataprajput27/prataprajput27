@@ -23,7 +23,7 @@
     <div align="center">
         <code><img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,vuejs,mongodb,mysql,c,cpp,java,javascript,typescript,python,git,postman,aws&perline=7"></code>
         <br/><br/>
-        <h5>Follow me around the web ;)</h5><br>
+        <h5><i>Follow me around the web ;)</i></h5>
         <a href="https://www.linkedin.com/in/prataprajput27/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
         <a href="https://www.instagram.com/wydpratap/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=black" alt="Instagram"></a>
     </div>
