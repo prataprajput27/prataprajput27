@@ -9,8 +9,7 @@
 <div align="center">
     You have finally discovered my GitHub profile. <br><br>
     Hi, I am Ishani Tambat, a passionate frontend developer and IT graduate from Vishwakarma Institute of Information Technology, Pune. My projects range from dynamic web applications using modern frameworks like <strong>React</strong> and <strong>Vue.js</strong> to educational tools and user-friendly interfaces.
-
-    <br><br>I specialize in building scalable and high-performing applications. Feel free to explore my repositories to know more about my projects. You are welcome to clone/fork my projects, raise issues, and submit PRs if you think something could be improved. Additionally, feel free to visit my <a href="https://www.linkedin.com/in/ishanitambat23/">LinkedIn profile</a> to connect with me.
+<br><br>I specialize in building scalable and high-performing applications. Feel free to explore my repositories to know more about my projects. You are welcome to clone/fork my projects, raise issues, and submit PRs if you think something could be improved. Additionally, feel free to visit my <a href="https://www.linkedin.com/in/ishanitambat23/">LinkedIn profile</a> to connect with me.
 
     <br><br><i>Happy Coding!</i> 😊
     <br><br>
