@@ -13,7 +13,7 @@
 <br><br>I work with modern frameworks like Vue.js and React to build dynamic web applications. Checkout my repositories to get to know more about my projects.<br><br>
     Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. <br>
     Please feel free to visit my <a href="https://github.com/prataprajput27">Portfolio page</a> to know more about me.<br><br>
-    <i>Happy Coding!</i> 😊
+    <i>Happy Coding!!</i> 😊
     <br><br>
 </div>
 
